@@ -1,0 +1,105 @@
+{
+  "id": 1,
+  "name": "OGUZ KAAN DERE",
+  position: "Full Stack Developer",
+  contactInformation: "+905378980677",
+  email: "ogzkaann96@gmail.com",
+  address: "Ankara/Turkey",
+  profilePicture: "",
+  // Profil fotoğrafı eklenebilir
+  socialMedia: [
+    {
+      socialMedia: "Github",
+      link: "github.com/ogzkaann"
+    },
+    {
+      socialMedia: "LinkedIn",
+      link: "linkedin.com/in/oguz-kaan-dere"
+    }
+  ],
+  summary: "Experienced software developer specialising in full stack development with a Master’s degree in Computer Science and expertise in Java, JavaScript and Angular. Passionate about game development, especially with Unreal Engine. Proven track record of delivering innovative software solutions and eager to take on new responsibilities in technology.",
+  education: [
+    {
+      school: "Baskent University",
+      degree: "Bachelor of Biomedical Engineer",
+      startYear: "Sep, 2015",
+      endYear: "Jul, 2020"
+    },
+    {
+      school: "Baskent University",
+      degree: "MSc Computer Science",
+      startYear: "Feb, 2022",
+      endYear: "Sep, 2024"
+    }
+  ],
+  workExperience: [
+    {
+      company: "Ekinoks Software",
+      position: "Front End Developer",
+      description: "Developed an Angular interface for a defense project, significantly enhancing UI/UX and composability. This role notably advanced my TypeScript and Angular skills within an Agile framework, showcasing my capacity to adapt and innovate in a technology.",
+      keyAchievements: [
+        "Ensured that the user interfaces and user experience of the software applications developed by the team met at least 80% of users expectations.",
+        "Created and analyzed 200 unit test cases."
+      ],
+      startYear: "Dec, 2022",
+      endYear: "Present"
+    },
+    {
+      company: "Fonet Software",
+      position: "Full-Stack Developer",
+      description: "Utilized technologies including Java, JavaScript, HTML/CSS, MVC frameworks, Hibernate, PostgreSQL, ExtJs, Git, REST APIs, Maven, and GlassFish to develop a critical module from end-to-end within a large hospital system.",
+      keyAchievements: [
+        "This initiative improved system performance by 12% and enhanced data processing speeds, serving millions of people more efficiently.",
+        "Delivered 60+ web solutions.",
+        "Worked with more than 3 different teams at different points of time and provided end-to-end solutions for clients."
+      ],
+      startYear: "May, 2021",
+      endYear: "Nov, 2022"
+    },
+    {
+      company: "ATOM - METU",
+      position: "Game Developer",
+      description: "Heller is a Software Editor specialized in logistics management.",
+      keyAchievements: [
+        "Led to a 15% increase in user engagement and a 10% improvement in game performance metrics within diverse teams.",
+        "Joined the team as #5 employee as a developer working directly with the biggest customers."
+      ],
+      startYear: "Jul, 2019",
+      endYear: "Aug, 2020"
+    }
+  ],
+  skills: [
+    "React",
+    "Angular",
+    "Typescript",
+    "Javascript",
+    "HTML5",
+    "CSS",
+    "PostgreSQL",
+    "Java",
+    "SpringBoot",
+    "MongoDB",
+    "Python"
+  ],
+  softSkills: [
+    "Collaboration",
+    "Problem-solving",
+    "Communication",
+    "Time management",
+    "Result-oriented"
+  ],
+  additionalSkills: [
+    "Public Speaking",
+    "Writing",
+    "Research"
+  ],
+  languages: [
+    "Turkish (Native)",
+    "English (B2)",
+    "German (A1)"
+  ],
+  certifications: [
+    "Certified Web Professional-Web Developer",
+    "Java Development Certified Professional"
+  ]
+}
